@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OsadeBOH
 - 👀 I’m interested in Health Data Science
 - 🌱 I’m currently learning Data Science/Analytics
-- 💞️ I’m looking to collaborate on Disease surveillance ML Projects in Africa
+- 💞️ I’m looking to collaborate on Infectious Disease  ML Projects in Africa
 - 📫 How to reach me docosade@gmail.com
 
 <!---
