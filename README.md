@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OsadeBOH
+- 👋 Hi, I’m Osade Oboh
 - 👀 I’m interested in Health Data Science
 - 🌱 I’m currently learning Data Science/Analytics
 - 💞️ I’m looking to collaborate on Infectious Disease  ML Projects in Africa
